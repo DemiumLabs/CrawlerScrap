@@ -1,0 +1,17 @@
+{
+  "name": "empresitescrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dom-parser": "^0.1.5",
+    "node-libcurl": "^1.3.3",
+    "node-rest-client": "^3.1.0",
+    "sanitize-html": "^1.19.1"
+  }
+}
