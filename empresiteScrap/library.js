@@ -42,7 +42,7 @@ module.exports = {
                 
                 curl.setOpt('URL', route);
                 curl.setOpt('FOLLOWLOCATION', true);
-                curl.setOpt('USERAGENT', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.361');
+                curl.setOpt('USERAGENT', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.12');
                 config.wait = config.waitEmpresite;
                 curl.on('end', function(statusCode, body, headers) {  
                     let dom  = parser.parseFromString((body));
