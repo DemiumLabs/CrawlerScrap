@@ -61,7 +61,11 @@ googletag.enableServices();
 </script>
 
 
+<<<<<<< HEAD
 <!--SERVIDOR TOMCAT SESS: FB227E66E25F378552BFDD2019357193.empresite-esp-prod_tomcat1-->
+=======
+<!--SERVIDOR TOMCAT SESS: AF13310EC6197F0E31D0F421772A1F00.empresite-esp-prod_tomcat1-->
+>>>>>>> d09f57817410730b5815df0a585f44107c196f02
 <!--SERVIDOR TOMCAT INT: empresite-esp-prod_tomcat1-->
 </head><body><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WW4JDM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N6HGPR5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -258,7 +262,11 @@ googletag.enableServices();
 											name: 'Ventas',
 											yAxis: 0,
 											type: 'area',
+<<<<<<< HEAD
 											data: [ 7564495.727826996,8041639.352614191,2729092.54837891]
+=======
+											data: [ 3414832.6383452876,3630229.1012063688,1231991.4826558228]
+>>>>>>> d09f57817410730b5815df0a585f44107c196f02
 										}
 										
 					        		],
@@ -276,7 +284,11 @@ googletag.enableServices();
 					    					}
 						    				
 											, min: 0.0
+<<<<<<< HEAD
 											, max: 8845804.0						 				
+=======
+											, max: 3993253.0						 				
+>>>>>>> d09f57817410730b5815df0a585f44107c196f02
 											, labels: {
 												enabled: false,
 									            formatter: function() {
