@@ -125,7 +125,7 @@ function article(route){
            }       
        });
        article.activity = activity;
-       functionsLibrary.postArticles(article,(result)=>console.log(result.id));
+       //functionsLibrary.postArticles(article,(result)=>console.log(result.id));
        //console.log(article);
     })
     .catch((error)=>{console.log(error)});
